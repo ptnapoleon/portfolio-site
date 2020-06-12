@@ -1,0 +1,1 @@
+Basic website for showcasing art.
