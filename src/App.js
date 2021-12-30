@@ -5,7 +5,7 @@ import './styles.css';
 
 function App() {
   return (
-      <div>
+    <html>
         <head>
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -49,7 +49,7 @@ function App() {
                             <img src="images/pink_flowers.jpeg" class="img-fluid d-block w-100" alt="Painting of pink flowers" />
                         </div>
                         <div class="carousel-item">
-                            <img src="images/space_dude.jpeg" class="img-fluid d-block w-100" alt="Pen sketch of two men" />
+                            <img src="images/space_dude.jpeg" class="img-fluid d-block w-100" alt="Pen sketch of two men" / >
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -63,7 +63,7 @@ function App() {
                 </div>
             </section>
         </body>
-    </div>
+    </html>
   );
 }
 
