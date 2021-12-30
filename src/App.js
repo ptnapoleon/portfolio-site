@@ -5,7 +5,7 @@ import './styles.css';
 
 function App() {
   return (
-    <html>
+      <div>
         <head>
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -63,7 +63,7 @@ function App() {
                 </div>
             </section>
         </body>
-    </html>
+    </div>
   );
 }
 
